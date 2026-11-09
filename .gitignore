@@ -1,0 +1,8 @@
+.agent-entry/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+dist/
+build/
+*.egg-info/
